@@ -1,0 +1,6 @@
+num1:3.0 num2:5.0 result:8.0
+First number:53.0; Second number:22.0; Result:75.0
+First number:44.0; Second number:27.0; Sum:71.0
+First number:44.0; Second number:27.0; Sum:71.0
+First number:7.0; Second number:29.0; Sum:36.0
+First number:67.0; Second number:21.0; Sum:88.0
