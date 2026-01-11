@@ -4,3 +4,5 @@ First number:44.0; Second number:27.0; Sum:71.0
 First number:44.0; Second number:27.0; Sum:71.0
 First number:7.0; Second number:29.0; Sum:36.0
 First number:67.0; Second number:21.0; Sum:88.0
+First number:3.0; Second number:6.0; Sum:9.0
+First number:22.0; Second number:11.0; Sum:33.0

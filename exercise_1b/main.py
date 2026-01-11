@@ -1,6 +1,5 @@
 import argparse
-import exercise_1b.adder as adder
-import write
+import exercise_1b.write as write
 
 parser = argparse.ArgumentParser('Adder', description='Simple addition calculator', epilog = 'Enter two numbers (num1), (num2) and get their summed result')
 parser.add_argument('num1', type= float , help= 'The first number')

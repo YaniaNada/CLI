@@ -1,6 +1,6 @@
 import argparse
-import greet_function as g
-import write_function as w
+import exercise_1a.greet_function as g
+import exercise_1a.write_function as w
 
 parser = argparse.ArgumentParser(description= 'Greet the user')
 
