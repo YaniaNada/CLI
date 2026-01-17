@@ -1,1 +1,3 @@
+# Simple Adder
+
 Exercise 1b: Create a simple adder that takes two numbers and returns the result.

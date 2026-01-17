@@ -1,1 +1,3 @@
+# Greeting Message for User
+
 Exercise 1: Write a program that takes user's name and age to greet them. In case user's name and age is not provided, the program uses the default values provided. Build functions and execute from the main.py file.
