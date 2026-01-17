@@ -8,7 +8,7 @@ class ModelObject:
     def __init__(self):
         pass
 
-    def call_model(X_train, y_train):
+    def model_fit(X_train, y_train):
         '''Train the model'''
         model.fit(X_train, y_train)
 
@@ -16,12 +16,6 @@ class ModelObject:
         '''Make prediction'''
         y_pred = model.predict(X_test)
 
-        return y_pred
-
-    def train_model(self, X_train, X_test, y_train):
-        self.call_model(X_train, y_train)
-        y_pred = self.call_predict(X_test)
-        
         return y_pred
 
     def evaluate(y_test, y_pred):
