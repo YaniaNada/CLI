@@ -32,4 +32,4 @@ Used:
 - modules, sub-modules
 
 New learnine:
-- concept of Parser Object (argParse.ArgumentParser), Subparser (), and Parent Parser (objects in sub-modules) to reuse the configuration of ArgumentParser objects
+- concept of stand alone parser object, Subparser, and Parent Parser to reuse parser object configuration
