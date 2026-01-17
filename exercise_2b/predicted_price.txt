@@ -1,0 +1,30 @@
+Predicted price: 480505.754, MSE of model: 136044306353.71048, R2 of model: 0.5874868812943861
+Predicted price: 476949.768, MSE of model: 136044306353.71048, R2 of model: 0.5874868812943861
+Property feature: {'beds': 2.0, 'baths': 2.0, 'size': 560.0, 'zip_code': 98107.0}, Predicted price: 480505.754, MSE of model: 136044306353.71048, R2 of model: 0.5874868812943861
+Property feature: {'beds': 1.0, 'baths': 1.0, 'size': 450.0, 'zip_code': 98107.0}, Predicted price: 476949.768
+Property feature:    beds  baths    size  zip_code
+0     3      2  1350.0     98107, Predicted price: 797930.321
+Property feature: 
+   beds  baths   size  zip_code
+0     2      2  560.0     98107, 
+Predicted price: 480505.754
+Property feature: 
+   beds  baths   size  zip_code
+0     1      1  450.0     98107, 
+Predicted price: 476949.768
+Property feature: 
+   beds  baths    size  zip_code
+0     3      2  1350.0     98107, 
+Predicted price: 797930.321
+Property feature: 
+   beds  baths   size  zip_code
+0     2      2  900.0     98107, 
+Predicted price: 658156.301
+Property feature: 
+   beds  baths   size  zip_code
+0     2      1  900.0     98107, 
+Predicted price: 616723.787
+Property feature: 
+   beds  baths   size  zip_code
+0     2      1  750.0     98107, 
+Predicted price: 538348.546
