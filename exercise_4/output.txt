@@ -1,0 +1,13 @@
+[3]
+[3]
+[3]
+George W Bush
+predicted labels3 George W Bush  (image file path: exercise_4\sample_images\test_image_2.png)
+predicted labels 3 George W Bush  (image file path: exercise_4\sample_images\test_image_3.png)
+predicted labels 3 George W Bush  (image file path: exercise_4\sample_images\test_image.png)
+predicted labels 2 Donald Rumsfeld  (image file path: exercise_4\sample_images\test_image.png)
+model selected: RF, predicted labels: 2, Donald Rumsfeld, (image file path: exercise_4\sample_images\test_image_2.png)
+model selected: RF, predicted labels: 2, Donald Rumsfeld, (image file path: exercise_4\sample_images\test_image_3.png)
+model selected: SVC, predicted labels: 3, George W Bush, (image file path: exercise_4\sample_images\test_image.png)
+model selected: SVC, predicted labels: 3, George W Bush, (image file path: exercise_4\sample_images\test_image_2.png)
+model selected: SVC, predicted labels: 3, George W Bush, (image file path: exercise_4\sample_images\test_image_3.png)
